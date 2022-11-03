@@ -6,4 +6,4 @@ Reference: https://github.com/streamlit/links
 
 # Browse
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chanin.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oscarsiu-portfolio.streamlit.app/)
