@@ -8,7 +8,7 @@ st.write("[![Star](https://img.shields.io/github/stars/OscarSiu/NTRIP-Client?sty
 
 #col1, col2, col3,col4,col5 = st.columns(5)
 #col3.image(Image.open('profile.jpg'))
-st.image('profile.jpg')
+st.image('profile.')
 st.header('Siu Cheuk Yin Oscar')
 
 st.info('Engineer | Robotics, Connected and Autonomous Vehicles, ROS, Computer Vision, CAD design')
