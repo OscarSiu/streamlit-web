@@ -4,7 +4,7 @@ from PIL import Image
 
 load_css()
 
-st.write("[![Star](https://img.shields.io/github/stars/OscarSiu/NTRIP-Client?style=social)](https://github.com/OscarSiu/NTRIP-Client)")
+st.write("[![Star](https://img.shields.io/github/stars/OscarSiu/streamlit-web?style=social)](https://github.com/OscarSiu/streamlit-web)")
 
 #col1, col2, col3,col4,col5 = st.columns(5)
 #col3.image(Image.open('profile.jpg'))
