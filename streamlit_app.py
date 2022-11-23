@@ -2,9 +2,9 @@ import streamlit as st
 from st_functions import st_button, load_css
 from PIL import Image
 
-load_css()
-
 st.set_page_config(page_title='Oscar\'s portfolio',page_icon='✈️')
+
+load_css()
 
 st.write("[![Star](https://img.shields.io/github/stars/OscarSiu/streamlit-web?style=social)](https://github.com/OscarSiu/streamlit-web)")
 
