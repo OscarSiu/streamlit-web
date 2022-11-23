@@ -4,6 +4,8 @@ from PIL import Image
 
 load_css()
 
+st.set_page_config(page_title='Oscar\'s portfolio',page_icon='✈️')
+
 st.write("[![Star](https://img.shields.io/github/stars/OscarSiu/streamlit-web?style=social)](https://github.com/OscarSiu/streamlit-web)")
 
 #col1, col2, col3,col4,col5 = st.columns(5)
